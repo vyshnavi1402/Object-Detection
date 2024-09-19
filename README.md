@@ -9,7 +9,7 @@
 The image below showcases the results of the object detection model applied to an input image. The model detects various objects within the scene, drawing bounding boxes around them, labeling each detected object with its category (e.g., person, car, dog, etc.)
 
 # Live Video Detection
-blob:https://web.whatsapp.com/ac516d61-f576-4581-a641-13a5f1ef19f1
+
 
 
 
