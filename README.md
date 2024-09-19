@@ -7,3 +7,5 @@
 
 The image below showcases the results of the object detection model applied to an input image. The model detects various objects within the scene, drawing bounding boxes around them, labeling each detected object with its category (e.g., person, car, dog, etc.)
 
+
+
