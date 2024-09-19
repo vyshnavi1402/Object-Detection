@@ -10,7 +10,7 @@ The image below showcases the results of the object detection model applied to a
 
 # Live Video Detection
 ![me](https://github.com/user-attachments/assets/e05cd74f-0739-4c94-be5d-b095444eb97e)
-![me](https://github.com/user-attachments/assets/5a2995c5-06f0-4bf2-a8c1-a61b436c3f98)
+
 
 
 
